@@ -30,11 +30,11 @@ Soy un Ingeniero en Mecatrónica, egresado del CETI Colomos, de la ciudad de Zap
 
 🔭 Actualmente estoy aprendiendo:
 
-Python
+    - Python
 
-React
+    - React
 
-Embebidos
+    - Embebidos
 
 📈 **My GitHub Stats:**
 

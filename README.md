@@ -29,9 +29,9 @@ Soy un Ingeniero en Mecatrónica, egresado del CETI Colomos, de la ciudad de Zap
 😄 Amo mi carrera porque representa totalmente mi perfil profesional, ya que la Ingeniería en Mecatrónica ambarca diversas áreas y oportunidades de desarrollo. Desde diseño y elaboración de elementos 2D y 3D para piezas y maquiarias, implementación de conceptos electrónicos y mecánicos, hasta programación de microcontroladores, PLCs y aplicaciones para el control de procesos y produtos.
 
 🔭 Actualmente estoy aprendiendo:
-    - Python
-    - React
-    - Embebidos
+Python
+React
+Embebidos
 
 📈 **My GitHub Stats:**
 

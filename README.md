@@ -24,11 +24,14 @@ Here are some ideas to get you started:
 
 Soy un Ingeniero en Mecatrónica, egresado del CETI Colomos, de la ciudad de Zapopan, Jalisco, México.
 
-Mis dos grandes pasiones son el **Diseño** y la **Programación**.
+⚡ Mis dos grandes pasiones son el **Diseño** y la **Programación**.
 
-Amo mi carrera porque representa totalmente mi perfil profesional, ya que la ingeniería en Mecatrónica ambarca diversas áreas y oportunidades de desarrollo.
+😄 Amo mi carrera porque representa totalmente mi perfil profesional, ya que la ingeniería en Mecatrónica ambarca diversas áreas y oportunidades de desarrollo. Desde diseño y elaboracion de elementos 2D y 3D para piezas y maquiarias, implementacion de conceptos electrónicos y mecánicos, hasta programación de microcontroladores, PLCs y aplicaciones para el control de procesos y produtos.
 
-Mi interés principal es estar en lugares en dónde pueda desempeñar el mayor número de funciones y aplicar todo mi conocimiento que está en mi alcance.
+🔭 Actualmente estoy aprendiendo:
+    - Python
+    - React
+    - Embebidos
 
 📈 **My GitHub Stats:**
 
